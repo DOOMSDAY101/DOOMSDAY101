@@ -1,7 +1,7 @@
 
 ![Programmer GIF](https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif)
 # 💫 About Me:
-🔭 I’m currently working on contributing to various open source projects.<br>👯 I’m looking to collaborate on any projects that pushes me to my boundaries.<br>🤝 I’m looking for help with open source projects that I can contribute and add value to.<br>🌱 I’m currently learning mobile development.<br>💬 Ask me about anything related to javascript, React, Nodejs<br>⚡ Fun fact I love adding values to anything
+🔭 I’m currently working on contributing to various open source projects.<br>👯 I’m looking to collaborate on any projects that pushes me to my boundaries.<br>🤝 I’m looking for help with open source projects that I can contribute and add value to.<br>🌱 I’m currently learning mobile development.<br>💬 Ask me about anything related to javascript, React, Nodejs, Doker<br>⚡ Fun fact I love adding values to anything
 
 
 ## 🌐 Socials:
